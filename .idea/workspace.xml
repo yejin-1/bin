@@ -7,8 +7,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ctiA5EmH2NVFHNfCFuWuGcffuv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,6 +28,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,7 +44,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591354143399</updated>
+      <workItem from="1591354147043" duration="1332000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="0" key="#Project_Structure" timestamp="1591354350929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591354350929" />
+    <state x="687" y="198" key="FileChooserDialogImpl" timestamp="1591354318657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="198" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591354318657" />
+    <state x="814" y="393" key="Github.ShareDialog" timestamp="1591354233039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="814" y="393" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591354233039" />
+    <state x="351" y="78" key="SettingsEditor" timestamp="1591354307031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="351" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591354307031" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1591355458563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591355458563" />
   </component>
 </project>
